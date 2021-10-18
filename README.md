@@ -21,7 +21,7 @@
 
 ## About
 
-NoteApp is a note-taking app for the web. It is a static site without a database and does not sync your notes to the cloud. The notes are persisted temporarily in local storage.
+NoteApp is a note-taking app for the web. It is a static site without a database and does not sync your notes to the cloud. The notes are persisted temporarily in local storage. Created using bootstrap, javascript and HTML.
 
 ##
 # Image 1
