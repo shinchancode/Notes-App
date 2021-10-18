@@ -1,6 +1,6 @@
 # Notes-App
 ## View Live Demo
-<pre><center><a href="https://aartirathi17.herokuapp.com/"><b>https://aartirathi17.herokuapp.com/</b></a></center></pre>
+<pre><center><a href="https://shinchancode.github.io/Notes-App/"><b>https://shinchancode.github.io/Notes-App/</b></a></center></pre>
 
 <p align="center">
   <img src="note.png" height="300px">
