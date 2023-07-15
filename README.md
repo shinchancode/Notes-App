@@ -3,7 +3,7 @@
 <pre><center><a href="https://shinchancode.github.io/Notes-App/"><b>https://shinchancode.github.io/Notes-App/</b></a></center></pre>
 
 <p align="center">
-  <img src="note.png" height="300px">
+  <img src="note.png" height="250px">
 </p>
 
 <p align="center">A web-based notes app for developers</p>
