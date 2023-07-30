@@ -1,6 +1,6 @@
-// AARTI RATHI 
-// Topic: Student database and sorting 
-// My website - https://aartirathi17.herokuapp.com/
+/* AARTI RATHI 
+Topic: Note Making App
+My website - https://shinchancode.github.io/3d-react-portfolio/ */
 
 
 console.log("Welcome to Note App");
